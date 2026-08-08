@@ -4,15 +4,13 @@ A 2D cooking game bult using **Python and Pygame**.
 
 ## 🎮 Features
 
-* 
-* 
-* 
-* 
-* 
-* 
+* Supplier tablet
+* Unlockable fryers, grills, and drink dispensers
+* Taking orders
+* Delivery system
 * Settings menu:
 
-  * Changing speed using a volume slider
+  * Changing volume using a volume slider
 
 
 ## 🕹️ Controls
