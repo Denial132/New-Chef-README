@@ -1,6 +1,6 @@
-# 🐍 Snake Game
+# 👨‍🍳 New Chef Game
 
-A classic Snake game built with **Python and Pygame**. Control the snake, eat food, grow longer, and try to beat your high score!
+A 2D cooking game bult using **Python and Pygame**. 
 
 ## 🎮 Features
 
@@ -55,7 +55,7 @@ No Python or Pygame installation is required.
 ## 📁 Project Structure
 
 ```
-Snake/
+New Chef/
 │
 ├── New chef.py
 ├── assets/
